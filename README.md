@@ -6,4 +6,4 @@ One of the most common feature when you work on API services is how to deal with
 
 ## Limit/Offset
 
-The most basic pagination is limit/offset pagination, please check this package for see an implementation about it [limit-offset](https://github.com/ramonmacias/go-pagination/limit-offset)
+The most basic pagination is limit/offset pagination, please check this package for see an implementation about it [limit-offset](https://github.com/ramonmacias/go-pagination/tree/master/limit-offset)
